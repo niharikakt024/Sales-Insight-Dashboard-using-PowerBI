@@ -8,14 +8,20 @@ An interactive **Power BI dashboard** built for **AtliQ**, designed to help stak
 
 ## 🖥️ Dashboard Preview
 
-### 1. Sales Overview
+### 1. Key Insights
 Tracks overall revenue, sales quantity, revenue by market, sales quantity by market, monthly revenue trend, and top 5 revenue contributors by customer and product.
+
+![Sales Overview](Key-Insights.png)
 
 ### 2. Profit Analysis
 Breaks down revenue and profit contribution by customer and by market, along with profit margin % per market — helping identify the most and least profitable regions.
 
+![Profit Analysis](profit-analysis.png)
+
 ### 3. Performance Insights
 An executive summary view with a configurable **profit target slider**, a combined revenue trend (current year vs. last year) with profit margin %, and revenue contribution by region (North, South, Central).
+
+![Performance Insights](performance-insights.png)
 
 ---
 
@@ -47,6 +53,7 @@ An executive summary view with a configurable **profit target slider**, a combin
 Sales-Insight-Dashboard-using-PowerBI/
 │
 ├── Dashboard.pbix          # Power BI dashboard file
+├── Data/                   # Source data files (if included)
 ├── Screenshots/            # Dashboard preview images
 └── README.md                # Project documentation
 ```
@@ -76,7 +83,7 @@ Sales-Insight-Dashboard-using-PowerBI/
 
 ## 👤 Author
 
-**Niharika**
+**Niharika K T**
 GitHub: [@niharikakt024](https://github.com/niharikakt024)
 
 ---
