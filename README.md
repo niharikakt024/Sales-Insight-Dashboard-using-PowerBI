@@ -54,7 +54,9 @@ Sales-Insight-Dashboard-using-PowerBI/
 │
 ├── Dashboard.pbix          # Power BI dashboard file
 ├── Data/                   # Source data files (if included)
-├── Screenshots/            # Dashboard preview images
+├── Performance Insights.png         # Dashboard preview images
+├── Key Insights.png
+├── Profit Analysis.png
 └── README.md                # Project documentation
 ```
 
