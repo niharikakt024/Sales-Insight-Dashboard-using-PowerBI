@@ -11,17 +11,17 @@ An interactive **Power BI dashboard** built for **AtliQ**, designed to help stak
 ### 1. Key Insights
 Tracks overall revenue, sales quantity, revenue by market, sales quantity by market, monthly revenue trend, and top 5 revenue contributors by customer and product.
 
-![Key Insights](Key-Insights.png)
+![Key Insights](key-insights.png)
 
 ### 2. Profit Analysis
 Breaks down revenue and profit contribution by customer and by market, along with profit margin % per market — helping identify the most and least profitable regions.
 
-![Profit Analysis](Profit-Analysis.png)
+![Profit Analysis](profit-analysis.png)
 
 ### 3. Performance Insights
 An executive summary view with a configurable **profit target slider**, a combined revenue trend (current year vs. last year) with profit margin %, and revenue contribution by region (North, South, Central).
 
-![Performance Insights](Performance-Insights.png)
+![Performance Insights](performance-insights.png)
 
 ---
 
